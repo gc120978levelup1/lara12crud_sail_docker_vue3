@@ -16,6 +16,16 @@ See [Vite Configuration Reference](https://vite.dev/config/).
    2. copy the content of file .env.example
    3. paste it to the new created .env file
 
+For Windows
+```sh
+copy .env.example .env
+```
+
+For Linux
+```sh
+cp .env.example .env
+```
+
 ## Project Setup (node + composer)
 
 ```sh
