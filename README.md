@@ -10,6 +10,11 @@ A simple webapp to demonstrate laravel 12 shadcn starter kit, sail/docker, Simpl
 
 See [Vite Configuration Reference](https://vite.dev/config/).
 
+### Compile and Minify for Production
+
+   1. create file .env
+   2. copy the content of file .env.example
+   3. paste it to the new created .env file
 
 ## Project Setup
 
